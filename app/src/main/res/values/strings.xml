@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GomezJairEx2</string>
+    <string name="nombreAplicativo">Adivina el animal</string>
+    <string name="prgunta1">¿León, puma o gato doméstico?</string>
+    <string name="prgunta2">¿Castor, chinchilla o capibara?</string>
+    <string name="prgunta3">¿Alpaca, camello o burro?</string>
+    <string name="prgunta4">¿León marino, nutria o hurón?</string>
+    <string name="prgunta5">¿Oso hormiguero, elefante o tapir?</string>
+    <string name="prgunta6">¿Zorrillo, mapache o tejón?</string>
+    <string name="prgunta7">¿Oso, panda o koala?</string>
+    <string name="prgunta8">¿Caballo, alce o cebra?</string>
+    <string-array name="Preguntas">
+        <item>pregunta1</item>
+        <item>pregunta2</item>
+    </string-array>
+
+</resources>
